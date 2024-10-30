@@ -61,20 +61,7 @@
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
 </div>
 
-</div>
-
 <br/>
-<hr/>
-
-<div align="left">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adarsh-fg/Adarsh-fg/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
