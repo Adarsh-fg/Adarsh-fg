@@ -26,11 +26,11 @@
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <!--<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />-->
   
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <!--<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />-->
   
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   
@@ -38,13 +38,13 @@
   
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
 
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  <!--<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />-->
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
+  <!--<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />-->
 
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
+  <!--<img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />-->
 
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   
