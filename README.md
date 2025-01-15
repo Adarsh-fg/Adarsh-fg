@@ -8,6 +8,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Adarsh-fg&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Adarsh-fg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -22,3 +23,4 @@
 	<a href="https://instagram.com/_adarsh_fg"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
+
