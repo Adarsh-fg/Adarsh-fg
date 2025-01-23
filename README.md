@@ -13,6 +13,13 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Adarsh-fg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Adarsh-fg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Prajeesh-A/Prajeesh-A/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
 <p align="center">
   <a href="https://adarsh-fg.github.io"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
