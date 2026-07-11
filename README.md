@@ -41,15 +41,6 @@ React front ends to CNNs that actually ship.
 | 🎥 **[SentryVision](https://github.com/Adarsh-fg/SentryVision)** | Real-time, multi-camera security monitoring system using Flask and YOLOv8 for motion and threat detection with live alerts. |
 | 🧠 **[Brain Tumor Detection](https://github.com/Adarsh-fg/Brain-tumor-prediction)** | CNN-based MRI classifier (glioma, meningioma, pituitary, no tumor) with K-Means tumor segmentation and Gemini-powered guidance. |
 
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adarsh-fg&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-fg&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 <sub>📫 Reach me at <a href="mailto:adarshai5770@gmail.com">adarshai5770@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/adarsh-p-41407432b/">LinkedIn</a></sub>
 </div>
