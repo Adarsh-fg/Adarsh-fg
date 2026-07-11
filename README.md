@@ -17,8 +17,10 @@ React front ends to CNNs that actually ship.
 
 ### About Me
 
-- 🎓 Diploma in Artificial Intelligence, Learn Logic AI — B.Sc. Computer Science, Kannur University
-- 💼 Currently working as a Software/Technical Analyst, building and maintaining production applications
+- 🎓 Diploma in Artificial Intelligence, Learn Logic AI — 
+- 🎓 B.Sc. Computer Science, Kannur University
+- 💼 Currently working as a Technical Analyst
+- 💼 Worked as Software Engineer Intern
 - 🧠 Interested in applied ML — computer vision, CNNs, and AI-assisted tools
 - 🛠️ Comfortable owning a feature end to end: schema → API → UI → deployment
 
